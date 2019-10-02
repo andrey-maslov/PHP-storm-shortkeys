@@ -13,6 +13,7 @@
 | Save | `Ctrl + S`  | Сохранить изменения в текущем файле |
 | Save As |`Ctrl + Shift + S`  | Сохранить изменения в файле с новым именем |
 | Search file |`Ctrl + Shift + N`  | Найти файл |
+| Recent files |`double Shift`  | Недавние файлы |
 | Close Tab | `Ctrl + F4` | Закрыть текущую вкладку |
 | Find in Path | `Ctrl + Shift + F` | Поиск по всему проекту |
 
